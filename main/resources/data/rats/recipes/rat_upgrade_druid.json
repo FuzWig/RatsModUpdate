@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HCH",
+    "UEU",
+    "HCH"
+  ],
+  "key": {
+    "H": {
+      "item": "minecraft:spider_eye"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "U": {
+      "item": "minecraft:blaze_powder"
+    }
+	"C":{
+	"item" : "forge:cheese"
+	}
+  },
+  "result": {
+    "item": "rats:rat_upgrade_druid"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "iceandfire"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "LLB",
+    "  L"
+  ],
+  "key": {
+    "B": {
+      "tag": "iceandfire:dragon_bone"
+    },
+    "L": {
+      "tag": "iceandfire:fire_dragon_scales"
+    }
+  },
+  "result": {
+    "item": "rats:dragon_wing"
+  }
+}

@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Rats1.16.2
+Implementation-Version: 7.0.4-1.16.3
+Specification-Vendor: rats
+Specification-Title: rats
+Implementation-Timestamp: 2021-01-09T11:27:15-0800
+Specification-Version: 7.0.1
+Implementation-Vendor: rats
+

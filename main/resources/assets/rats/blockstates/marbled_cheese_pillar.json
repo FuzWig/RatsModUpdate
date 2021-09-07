@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "rats:block/marbled_cheese_pillar"
+    },
+    "axis=z": {
+      "model": "rats:block/marbled_cheese_pillar",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "rats:block/marbled_cheese_pillar",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RCR",
+    "C C",
+    "RCR"
+  ],
+  "key": {
+    "R": {
+      "tag": "minecraft:diamonds"
+    }
+	"C":{
+		"tag": "forge:cheese"
+	}
+  },
+  "result": {
+    "item": "rats:rat_upgrade_basic"
+  }
+}

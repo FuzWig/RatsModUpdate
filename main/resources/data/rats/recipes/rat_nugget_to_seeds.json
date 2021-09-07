@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "VVV",
+    "VVV",
+    "VVV"
+  ],
+  "key": {
+    "V": {
+      "tag": "rats:rat_poop"
+    }
+  },
+  "result": {
+    "item": "minecraft:wheat_seeds"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FFF",
+    "FBF",
+    "FFF"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:barrel"
+    },
+    "F": {
+      "tag": "forge:fish"
+    }
+  },
+  "result": {
+    "item": "rats:fish_barrel"
+  }
+}

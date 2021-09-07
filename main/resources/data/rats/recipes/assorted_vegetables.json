@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "VVV",
+    "VVV",
+    "VVV"
+  ],
+  "key": {
+    "V": {
+      "tag": "forge:vegetables"
+    }
+  },
+  "result": {
+    "item": "rats:assorted_vegetables"
+  }
+}
